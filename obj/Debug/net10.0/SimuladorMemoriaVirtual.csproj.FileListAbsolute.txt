@@ -1,0 +1,28 @@
+C:\Users\Pedro\Desktop\Trabalho\SimuladorMemoriaVirtual\bin\Debug\net10.0\SimuladorMemoriaVirtual.exe
+C:\Users\Pedro\Desktop\Trabalho\SimuladorMemoriaVirtual\bin\Debug\net10.0\SimuladorMemoriaVirtual.deps.json
+C:\Users\Pedro\Desktop\Trabalho\SimuladorMemoriaVirtual\bin\Debug\net10.0\SimuladorMemoriaVirtual.runtimeconfig.json
+C:\Users\Pedro\Desktop\Trabalho\SimuladorMemoriaVirtual\bin\Debug\net10.0\SimuladorMemoriaVirtual.dll
+C:\Users\Pedro\Desktop\Trabalho\SimuladorMemoriaVirtual\bin\Debug\net10.0\SimuladorMemoriaVirtual.pdb
+C:\Users\Pedro\Desktop\Trabalho\SimuladorMemoriaVirtual\obj\Debug\net10.0\SimuladorMemoriaVirtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Trabalho\SimuladorMemoriaVirtual\obj\Debug\net10.0\SimuladorMemoriaVirtual.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Trabalho\SimuladorMemoriaVirtual\obj\Debug\net10.0\SimuladorMemoriaVirtual.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Trabalho\SimuladorMemoriaVirtual\obj\Debug\net10.0\SimuladorMemoriaVirtual.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Trabalho\SimuladorMemoriaVirtual\obj\Debug\net10.0\SimuladorMemoriaVirtual.dll
+C:\Users\Pedro\Desktop\Trabalho\SimuladorMemoriaVirtual\obj\Debug\net10.0\refint\SimuladorMemoriaVirtual.dll
+C:\Users\Pedro\Desktop\Trabalho\SimuladorMemoriaVirtual\obj\Debug\net10.0\SimuladorMemoriaVirtual.pdb
+C:\Users\Pedro\Desktop\Trabalho\SimuladorMemoriaVirtual\obj\Debug\net10.0\SimuladorMemoriaVirtual.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Trabalho\SimuladorMemoriaVirtual\obj\Debug\net10.0\ref\SimuladorMemoriaVirtual.dll
+C:\Users\PHESh\OneDrive\Área de Trabalho\Trabalho\Trabalho\SimuladorMemoriaVirtual\bin\Debug\net10.0\SimuladorMemoriaVirtual.exe
+C:\Users\PHESh\OneDrive\Área de Trabalho\Trabalho\Trabalho\SimuladorMemoriaVirtual\bin\Debug\net10.0\SimuladorMemoriaVirtual.deps.json
+C:\Users\PHESh\OneDrive\Área de Trabalho\Trabalho\Trabalho\SimuladorMemoriaVirtual\bin\Debug\net10.0\SimuladorMemoriaVirtual.runtimeconfig.json
+C:\Users\PHESh\OneDrive\Área de Trabalho\Trabalho\Trabalho\SimuladorMemoriaVirtual\bin\Debug\net10.0\SimuladorMemoriaVirtual.dll
+C:\Users\PHESh\OneDrive\Área de Trabalho\Trabalho\Trabalho\SimuladorMemoriaVirtual\bin\Debug\net10.0\SimuladorMemoriaVirtual.pdb
+C:\Users\PHESh\OneDrive\Área de Trabalho\Trabalho\Trabalho\SimuladorMemoriaVirtual\obj\Debug\net10.0\SimuladorMemoriaVirtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHESh\OneDrive\Área de Trabalho\Trabalho\Trabalho\SimuladorMemoriaVirtual\obj\Debug\net10.0\SimuladorMemoriaVirtual.AssemblyInfoInputs.cache
+C:\Users\PHESh\OneDrive\Área de Trabalho\Trabalho\Trabalho\SimuladorMemoriaVirtual\obj\Debug\net10.0\SimuladorMemoriaVirtual.AssemblyInfo.cs
+C:\Users\PHESh\OneDrive\Área de Trabalho\Trabalho\Trabalho\SimuladorMemoriaVirtual\obj\Debug\net10.0\SimuladorMemoriaVirtual.csproj.CoreCompileInputs.cache
+C:\Users\PHESh\OneDrive\Área de Trabalho\Trabalho\Trabalho\SimuladorMemoriaVirtual\obj\Debug\net10.0\SimuladorMemoriaVirtual.dll
+C:\Users\PHESh\OneDrive\Área de Trabalho\Trabalho\Trabalho\SimuladorMemoriaVirtual\obj\Debug\net10.0\refint\SimuladorMemoriaVirtual.dll
+C:\Users\PHESh\OneDrive\Área de Trabalho\Trabalho\Trabalho\SimuladorMemoriaVirtual\obj\Debug\net10.0\SimuladorMemoriaVirtual.pdb
+C:\Users\PHESh\OneDrive\Área de Trabalho\Trabalho\Trabalho\SimuladorMemoriaVirtual\obj\Debug\net10.0\SimuladorMemoriaVirtual.genruntimeconfig.cache
+C:\Users\PHESh\OneDrive\Área de Trabalho\Trabalho\Trabalho\SimuladorMemoriaVirtual\obj\Debug\net10.0\ref\SimuladorMemoriaVirtual.dll
